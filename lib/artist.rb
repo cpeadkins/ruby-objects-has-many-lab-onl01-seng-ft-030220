@@ -25,12 +25,4 @@ class Artist
     @@song_count
   end
   
-  def genre
-    @genre = genre
-  end
-  
-   def genre
-    @genre
-  end
-  
 end
